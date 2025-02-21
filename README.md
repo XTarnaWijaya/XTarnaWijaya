@@ -74,24 +74,24 @@
   <tr>
     <td align="center">
       <a href="https://github.com/XTarnaWijaya/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=TarnaWijaya&show_icons=true&theme=tokyonight" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=XTarnaWijaya&show_icons=true&theme=tokyonight" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/XTarnaWijaya">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarnaWijaya&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=XTarnaWijaya&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/XTarnaWijaya">
-        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarnaWijaya&theme=github_dark" />
+        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XTarnaWijaya&theme=github_dark" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/XTarnaWijaya">
-        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TarnaWijaya&theme=github_dark&utcOffset=7" />
+        <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XTarnaWijaya&theme=github_dark&utcOffset=7" />
       </a>
     </td>
   </tr>
