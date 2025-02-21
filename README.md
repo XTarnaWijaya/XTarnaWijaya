@@ -15,7 +15,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@TarnaWijaya?theme=rule34" alt="TarnaWijaya's cutie counter"/>
+	<img src="https://moe-counter.glitch.me/get/@XTarnaWijaya?theme=rule34" alt="TarnaWijaya's cutie counter"/>
 	<br><br>
 	<code>Terimakasih sudah mampir jangan lupa mampir lagi ya🤗</code>
 </p>
@@ -56,9 +56,9 @@
 
 ## GitHub Status:
 <div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=TarnaWijaya&style=for-the-badge&color=6F9EFF" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/TarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=XTarnaWijaya&style=for-the-badge&color=6F9EFF" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/XTarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/XTarnaWijaya?style=for-the-badge&color=6F9EFF" alt="Stars"/>
 
   [![Join WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Gomu4BhzluT3gaXRHmNs4n)
   [![Join Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/TarnaWijaya_grup)
@@ -73,24 +73,24 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/TarnaWijaya/github-readme-stats">
+      <a href="https://github.com/XTarnaWijaya/github-readme-stats">
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=TarnaWijaya&show_icons=true&theme=tokyonight" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/TarnaWijaya">
+      <a href="https://github.com/XTarnaWijaya">
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarnaWijaya&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/TarnaWijaya">
+      <a href="https://github.com/XTarnaWijaya">
         <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TarnaWijaya&theme=github_dark" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/TarnaWijaya">
+      <a href="https://github.com/XTarnaWijaya">
         <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TarnaWijaya&theme=github_dark&utcOffset=7" />
       </a>
     </td>
@@ -99,7 +99,7 @@
 </div>
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TarnaWijaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=XTarnaWijaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=1000&color=6F9EFF&center=true&vCenter=true&random=false&width=900&height=70&lines=I+am+busy+with+worldly+affairs;If+only+I+were+like+before;So+I+could+pray+and+repent+to+Allah+SWT" alt="Typing SVG" />
