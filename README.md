@@ -66,6 +66,8 @@
 </div>
 <div align="center">
 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TarnaWijaya)](https://wakatime.com/@f011cb10-c805-44a8-b0e1-2c53997e3e07)
 [![wakatime](https://wakatime.com/badge/user/f011cb10-c805-44a8-b0e1-2c53997e3e07.svg)](https://wakatime.com/@f011cb10-c805-44a8-b0e1-2c53997e3e07)
 
 </div>
