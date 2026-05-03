@@ -62,8 +62,8 @@ Tidak ada yang istimewa, tapi saya berusaha jadi versi terbaik dari diri saya se
 ---
 ## 👤 Git Akun
 
-- [🦊 Gitlab](gitlab.com/TarnaWijaya)
-- [🐙 Github](github.com/XTarnaWijaya)
+- [🦊 Gitlab](https://gitlab.com/TarnaWijaya)
+- [🐙 Github](https://github.com/XTarnaWijaya)
 ---
 
 ## 💖 Dukung Saya
