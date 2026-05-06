@@ -1,84 +1,88 @@
-# Halo, saya Kang Tarno
+# Hello, I'm Kang Tarno
 
-Saya hanya **orang biasa** yang suka ngoprek kode, main game, dan belajar hal-hal baru.  
-Tidak ada yang istimewa, tapi saya berusaha jadi versi terbaik dari diri saya sendiri terutama buat istri tercinta. 🤎
-
----
-
-## 🧑‍💻 Tentang Saya
-
-- 🧑‍💼 Saya saat ini sibuk bekerja yang cukup untuk istri saya.
-- 🛡️ Melindungi istri, keluarga dan lingkungan sekitar
-- 👨‍⚖️ Mencari keadilan sendiri dengan bukti valid
-- 🔍 Belajar dari hal yang kecil sampai yang besar, itu memerlukan proses yang cukup lama.
-- 📕 Selalu meneliti hal yang baru yang sudah ditampilkan secara publik.
-- 🤖 Belajar otodidak dan dibantu AI Agent & Video yang sudah ada.
+I'm just a **regular guy** who enjoys tinkering with code, playing games, and learning new things.  
+Nothing extraordinary, but I always strive to become the best version of myself especially for my beloved wife.
 
 ---
 
-## 🛠️ Hal yang Saya Gunakan
+## 🧑‍💻 About Me
 
+- 🧑‍💼 Currently busy working to provide a decent life for my wife.
+- 🛡️ Protecting my wife, family, and the surrounding environment.
+- 👨‍⚖️ Seeking justice independently with valid evidence.
+- 🔍 Learning from the smallest things to the biggest because everything takes time and process.
+- 📕 Always researching new things that are publicly available.
+- 🤖 Self-taught, supported by AI agents and available video resources.
 
-| Device        | Software       | Alat                   |
+---
+
+## 🛠️ What I Use
+
+| Device        | Software       | Tools                  |
 | ------------- | -------------- | ---------------------- |
-| HP (REDMI A5) | Termux         | Git (Utama)            |
+| Phone (REDMI A5) | Termux     | Git (Main)             |
 |               |                | Python                 |
-|               |                | Nodejs                 |
+|               |                | Node.js                |
 |               |                | Curl                   |
 |               |                | DLL                    |
-| STB H680P     | Armbian server | Git (Self Host)        |
-|               |                | NAS (Penyimpanan data) |
-|               |                | Tor serve              |
+| STB H680P     | Armbian Server | Git (Self-hosted)      |
+|               |                | NAS (Data Storage)     |
+|               |                | Tor Server             |
 |               |                | DLL                    |
-| Leptop        | Windows        | World                  |
-|               |                | Exel                   |
-|               |                | Powerpoint             |
-|               |                | VSCode                 |
+| Laptop        | Windows        | Word                   |
+|               |                | Excel                  |
+|               |                | PowerPoint             |
+|               |                | VS Code                |
 |               |                | N8N                    |
 |               |                | AI Agent               |
-|               |                | Local Service          |
+|               |                | Local Services         |
 |               |                | DLL                    |
-
 
 ---
 
-## 📊 Statistik
+## 📊 Statistics
 
-- Tetap santai sambil menikmati hidup.
-- Ngopi dan minum teh dengan hangat.
-- Sering kontribusi pada organisasi tertentu.
+- Staying relaxed while enjoying life.
+- Drinking coffee and tea warmly.
+- Actively contributing to certain organizations.
 
 ---
 
 ## 🌐 Website
 
 - [Kang Tarno](https://tarnawijaya.pages.dev)
-- [NT Portal](https://nt-portal.pages.dev)
+- 💖[NT Portal](https://nt-portal.pages.dev)
 
 ---
-# 📞 Kontak
+
+# 📞 Contact
+
 - [Telegram](https://t.me/t0z7x1v9r2k8m4)
+- [Email](mailto:tarnawijaya@outlook.com)
 
 ---
-## 👤 Git Akun
 
-- [🦊 Gitlab](https://gitlab.com/TarnaWijaya)
-- [🐙 Github](https://github.com/XTarnaWijaya)
+## 👤 Git Accounts
+
+- 🦊[GitLab](https://gitlab.com/TarnaWijaya)
+- 🐙[GitHub](https://github.com/XTarnaWijaya)
+
 ---
 
-## 💖 Dukung Saya
+## 💖 Support Me
 
-Jika kamu suka dengan karya sederhana ini, traktir kopi atau donasi via:
+If you like this simple work, feel free to buy me a coffee or donate via:
 
-[![Saweria](https://img.shields.io/badge/Saweria-F7B32B?style=for-the-badge&logo=ko-fi&logoColor=black)](https://saweria.co/TarnaWijaya)
+[![Saweria](https://img.shields.io/badge/Saweria-F7B32B?style=for-the-badge&logo=ko-fi&logoColor=black)](https://saweria.co/TarnaWijaya)  
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/TarnaWijaya)
 
-Terimakasih kawan untuk donasinya 🙏
+Thank you, my friend, for your support 🙏
 
 ---
 
-> “Jadilah pahlawan yang melindungi sang istri tercinta.”  
+> “Be a hero who protects his beloved wife. I love my wife forever, even when I die, I will still love her.”  
 > — Kang Tarno
 
 ---
-*© 2026 | Dibuat oleh TarnaWijaya*
+
+*© 2026 | Created by TarnaWijaya*
